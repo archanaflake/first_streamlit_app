@@ -7,4 +7,4 @@ streamlit.header('Breakfast Menu')
 
 streamlit.text('omega 3')
 streamlit.text('meals 2')
-streamil.text('breakfirst ')
+streamlit.text('breakfirst ')
